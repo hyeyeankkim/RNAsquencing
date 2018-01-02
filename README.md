@@ -1,0 +1,2 @@
+# RNAsquencing
+RNAsquencing pipeline python
